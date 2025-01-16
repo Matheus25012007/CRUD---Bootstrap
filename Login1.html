@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - Joias Elegantes</title>
+    <link rel="stylesheet" href="css/Login1.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <h1>Joias Elegantes</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="loja.php">Início</a></li>
+                <li><a href="sobre_nos.html">Sobre Nós</a></li>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section class="cadastro">
+        <div class="form-container">
+            <h2>Login</h2>
+            <form onsubmit="return logar(event)">
+                <input type="text" placeholder="Login" id="login" required>
+                <input type="password" placeholder="Senha" id="senha" required>
+                <input type="submit" value="Entrar">
+
+                <script src="js/script.js"></script>
+            </form>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Joias Elegantes. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>

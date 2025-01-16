@@ -1,0 +1,218 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    background-color: #f9f9f9;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 15px 0;
+    text-align: center;
+}
+
+header .logo h1 {
+    font-size: 2em;
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    margin-top: 10px;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2em;
+}
+
+.banner {
+    background: url('img/banner.jpg') no-repeat center center/cover;
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+}
+
+.banner-content h2 {
+    font-size: 3em;
+    margin-bottom: 15px;
+}
+
+.banner-content p {
+    font-size: 1.5em;
+    margin-bottom: 25px;
+}
+
+.btn {
+    background-color: #ff4081;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 1.2em;
+    border-radius: 25px;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #e6005c;
+}
+
+.btn-detalhes {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 25px;
+    text-decoration: none;
+    font-size: 1.2em;
+    transition: background-color 0.3s ease;
+}
+
+.btn-detalhes:hover {
+    background-color: #3d8f43;
+}
+
+.btn-cadastro {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 25px;
+    text-decoration: none;
+    font-size: 1.2em;
+    transition: background-color 0.3s ease;
+}
+
+.btn-cadastro:hover {
+    background-color: #0056b3;
+}
+
+.produtos {
+    padding: 50px;
+    text-align: center;
+    background-color: #fff;
+}
+
+.produtos h2 {
+    font-size: 2.5em;
+    margin-bottom: 40px;
+}
+
+.galeria {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 30px;
+}
+
+.produto {
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    width: 300px;
+    text-align: center;
+}
+
+.produto img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.produto h3 {
+    font-size: 1.8em;
+    margin: 15px 0;
+}
+
+.produto p {
+    font-size: 1.2em;
+    margin-bottom: 15px;
+}
+
+.cadastro {
+    padding: 50px;
+    text-align: center;
+    background-color: #f1f1f1;
+}
+
+.cadastro h2 {
+    font-size: 2.5em;
+    margin-bottom: 30px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 50px;
+}
+
+@media (max-width: 768px) {
+    .galeria {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .produto {
+        width: 100%;
+    }
+}
+
+.banner {
+position: relative;
+height: 60vh;
+overflow: hidden;
+}
+
+.banner-video {
+position: absolute;
+top: 50%;
+left: 50%;
+min-width: 100%;
+min-height: 100%;
+width: auto;
+height: auto;
+z-index: 1;
+transform: translate(-50%, -50%); 
+}
+
+.banner-content {
+position: relative;
+z-index: 2; 
+text-align: center;
+color: #fff; 
+}
+.contato {
+background-color: #f0f0f0; 
+padding: 20px; 
+text-align: center; 
+border-top: 2px solid #ccc; 
+margin-top: 20px; 
+}
+
+.contato h2 {
+color: #333; 
+margin-bottom: 15px; 
+}
+
+.contato p {
+color: #555; 
+margin: 5px 0; 
+font-size: 1.1em; 
+}
