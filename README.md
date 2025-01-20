@@ -72,6 +72,6 @@ Isso abrirá a tela inicial da loja de joias no seu navegador, permitindo intera
 Screenshots 📸
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/Matheus25012007/Vector-Drawing/main/1 - Interface.png" alt="Tela Inicial" width="45%" />
-  <img src="https://raw.githubusercontent.com/Matheus25012007/Vector-Drawing/main/2 - Interface Admin.png" alt="Tela 2" width="45%" />
+  <img src="https://raw.githubusercontent.com/Matheus25012007/CRUD---Bootstrap/main/1 - Interface.png" alt="Tela Inicial" width="45%" />
+  <img src="https://raw.githubusercontent.com/Matheus25012007/CRUD---Bootstrap/main/2 - Interface Admin.png" alt="Tela 2" width="45%" />
 </div>
