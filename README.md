@@ -32,9 +32,14 @@ This project is an e-commerce website developed as part of an academic assignmen
      http://localhost/CRUD---Bootstrap/loja.php
      ```
 
+4. **Run the SQL code to create the database**:
+   - Open a MySQL client like MySQL Workbench or MySQL Front.
+   - Create a new database and run the SQL code provided in the project to set up the necessary tables and database structure.
+
 This will open the jewelry store admin panel in your browser, allowing you to interact with the product management system!
 
 ---
+
 pt-br:
 ### Loja de Jóias 🏬💍
 
@@ -66,8 +71,13 @@ Este projeto é um site de e-commerce desenvolvido como parte de um trabalho aca
      http://localhost/CRUD---Bootstrap/loja.php
      ```
 
-Isso abrirá a tela inicial da loja de joias no seu navegador, permitindo interagir com o sistema todo!
+4. **Execute o código SQL para criar o banco de dados**:
+   - Abra um cliente MySQL como o MySQL Workbench ou MySQL Front.
+   - Crie um novo banco de dados e execute o código SQL fornecido no projeto para configurar as tabelas e a estrutura do banco de dados.
 
+Isso abrirá o painel de administração da loja de joias no seu navegador, permitindo interagir com o sistema de gerenciamento de produtos!
+
+---
 
 Screenshots 📸
 
@@ -80,6 +90,8 @@ Screenshots 📸
   <img src="https://raw.githubusercontent.com/Matheus25012007/CRUD---Bootstrap/main/3 - Relatórios.png" alt="Tela Inicial" width="45%" />
   <img src="https://raw.githubusercontent.com/Matheus25012007/CRUD---Bootstrap/main/4 - Carrinho de Compras.png" alt="Tela 2" width="45%" />
 </div>
+
+---
 
 # Running
 
