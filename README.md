@@ -67,3 +67,13 @@ Este projeto é um site de e-commerce desenvolvido como parte de um trabalho aca
      ```
 
 Isso abrirá a tela inicial da loja de joias no seu navegador, permitindo interagir com o sistema todo!
+
+
+Screenshots 📸
+
+![1- Interface](https://github.com/user-attachments/assets/9748f238-f52b-41b5-ae33-78dfa8203af2)
+![2 - Interface Admin](https://github.com/user-attachments/assets/27e44261-aa34-4a5e-8204-38cef45959b2)
+![3 - Relatórios](https://github.com/user-attachments/assets/2b11c0a2-34ba-4574-8709-2da9c09bba7e)
+![4 - Carrinho de Compras](https://github.com/user-attachments/assets/dfe8490f-31da-4be2-900e-feefd466be3d)
+
+
