@@ -1,5 +1,7 @@
 # CRUD---Bootstrap
 
+eng:
+
 ### Jewelry Store 🏬💍
 
 This project is an e-commerce website developed as part of an academic assignment. It includes integration with a MySQL database to perform all CRUD operations 
@@ -16,8 +18,30 @@ This project is an e-commerce website developed as part of an academic assignmen
   - Password: `admin` 🔑
 - Utilization of **events, triggers, functions, and procedures** to automate and enhance database interaction ⚙️.
 - The panel allows administrators to **update**, **add**, or **remove** products directly in the database, providing an intuitive and efficient interface 🔄.
-  
+
 ---
+
+### How to Run 🚀
+
+1. **Start WampServer**: Make sure WampServer is running on your computer.
+   
+2. **Place the code folder in the `www` directory of WampServer**: 
+   - Copy the project folder and place it inside the `www` folder located in the WampServer installation directory (usually `C:\wamp64\www\`).
+
+3. **Access the project in the browser**:
+   - Open your browser and go to the following URL:
+     ```
+     http://localhost/CRUD---Bootstrap/loja.php
+     ```
+
+This will open the jewelry store admin panel in your browser, allowing you to interact with the product management system!
+
+---
+pt-br:
+### Loja de Jóias 🏬💍
+
+Este projeto é um site de e-commerce desenvolvido como parte de um trabalho acadêmico. Ele inclui integração com um banco de dados MySQL para realizar todas as operações CRUD 
+(Criar, Ler, Atualizar, Deletar), além de recursos no banco de dados, como eventos, gatilhos, funções e procedimentos.
 
 ### Tecnologias utilizadas 🛠️
 - **Frontend**: HTML, CSS, JavaScript e Bootstrap.
@@ -30,3 +54,20 @@ This project is an e-commerce website developed as part of an academic assignmen
   - Senha: `admin` 🔑
 - Uso de **event, trigger, function e procedure** para automatizar e melhorar a interação com o banco de dados ⚙️.
 - O painel permite que administradores **atualizem**, **adicionem** ou **removam** produtos diretamente no banco de dados, oferecendo uma interface intuitiva e eficiente 🔄.
+
+---
+
+### Como Rodar 🚀
+
+1. **Ligue o WampServer**: Certifique-se de que o WampServer está em execução no seu computador.
+   
+2. **Coloque a pasta do código na pasta `www` do WampServer**: 
+   - Copie a pasta do projeto e cole dentro da pasta `www`, localizada no diretório de instalação do WampServer (geralmente `C:\wamp64\www\`).
+
+3. **Acesse o projeto no navegador**:
+   - Abra o navegador e acesse o seguinte endereço:
+     ```
+     http://localhost/CRUD---Bootstrap/loja.php
+     ```
+
+Isso abrirá a tela inicial da loja de joias no seu navegador, permitindo interagir com o sistema todo!
