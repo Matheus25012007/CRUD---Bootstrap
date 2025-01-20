@@ -71,8 +71,12 @@ Isso abrirá a tela inicial da loja de joias no seu navegador, permitindo intera
 
 Screenshots 📸
 
-![1- Interface](https://github.com/user-attachments/assets/9748f238-f52b-41b5-ae33-78dfa8203af2)
-![2 - Interface Admin](https://github.com/user-attachments/assets/27e44261-aa34-4a5e-8204-38cef45959b2)
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  ![1- Interface](https://github.com/user-attachments/assets/9748f238-f52b-41b5-ae33-78dfa8203af2)
+  ![2 - Interface Admin](https://github.com/user-attachments/assets/27e44261-aa34-4a5e-8204-38cef45959b2)
+</div>
+
+
 ![3 - Relatórios](https://github.com/user-attachments/assets/2b11c0a2-34ba-4574-8709-2da9c09bba7e)
 ![4 - Carrinho de Compras](https://github.com/user-attachments/assets/dfe8490f-31da-4be2-900e-feefd466be3d)
 
