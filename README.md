@@ -9,7 +9,7 @@ This project is an e-commerce website developed as part of an academic assignmen
 
 ### Technologies Used 🛠️
 - **Frontend**: HTML, CSS, JavaScript, and Bootstrap.
-- **Backend**: MySQL database connection and manipulation.
+- **Backend**: PHP and MySQL database connection / manipulation.
 
 ### Features 🌟
 - **Product management system** for a jewelry store.
@@ -45,7 +45,7 @@ Este projeto é um site de e-commerce desenvolvido como parte de um trabalho aca
 
 ### Tecnologias utilizadas 🛠️
 - **Frontend**: HTML, CSS, JavaScript e Bootstrap.
-- **Backend**: Conexão e manipulação de banco de dados MySQL.
+- **Backend**: PHP e Conexão / manipulação de banco de dados MySQL.
 
 ### Funcionalidades 🌟
 - **Sistema de gerenciamento de produtos** para uma loja de joias.
