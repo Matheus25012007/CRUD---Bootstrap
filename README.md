@@ -16,7 +16,7 @@ This project is an e-commerce website developed as part of an academic assignmen
 - **Administrative panel** with default credentials:
   - Username: `admin` 👤
   - Password: `admin` 🔑
-- Utilization of **events, triggers, functions, and procedures** to automate and enhance database interaction ⚙️.
+- Use of **procedure** to generate reports and interact with the database ⚙️.
 - The panel allows administrators to **update**, **add**, or **remove** products directly in the database, providing an intuitive and efficient interface 🔄.
 
 ---
@@ -52,7 +52,7 @@ Este projeto é um site de e-commerce desenvolvido como parte de um trabalho aca
 - **Painel administrativo** com credenciais padrão:
   - Usuário: `admin` 👤
   - Senha: `admin` 🔑
-- Uso de **event, trigger, function e procedure** para automatizar e melhorar a interação com o banco de dados ⚙️.
+- Uso de **procedure** para trazer relatórios e interagir com o banco de dados ⚙️.
 - O painel permite que administradores **atualizem**, **adicionem** ou **removam** produtos diretamente no banco de dados, oferecendo uma interface intuitiva e eficiente 🔄.
 
 ---
