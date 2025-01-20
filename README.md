@@ -19,8 +19,6 @@ This project is an e-commerce website developed as part of an academic assignmen
 - Use of **procedure** to generate reports and interact with the database ⚙️.
 - The panel allows administrators to **update**, **add**, or **remove** products directly in the database, providing an intuitive and efficient interface 🔄.
 
----
-
 ### How to Run 🚀
 
 1. **Start WampServer**: Make sure WampServer is running on your computer.
@@ -54,8 +52,6 @@ Este projeto é um site de e-commerce desenvolvido como parte de um trabalho aca
   - Senha: `admin` 🔑
 - Uso de **procedure** para trazer relatórios e interagir com o banco de dados ⚙️.
 - O painel permite que administradores **atualizem**, **adicionem** ou **removam** produtos diretamente no banco de dados, oferecendo uma interface intuitiva e eficiente 🔄.
-
----
 
 ### Como Rodar 🚀
 
